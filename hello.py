@@ -1,5 +1,6 @@
 # hello.py
 
+# This prints a hello world function
 def main():
     print("Hello, World!")
 

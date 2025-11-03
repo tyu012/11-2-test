@@ -4,7 +4,7 @@
 def main():
     print("Hello, World!")
 
-    # print numbers in a loop
+    # A loop that prints 10 numbers from 10 to 19.
     for num in range(10, 20):
         print("This is a number:", num)
 
